@@ -1,10 +1,11 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import {
     StyleSheet,
     Text,
     Image,
     View,
 } from 'react-native';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import { getStatusBarHeight } from 'react-native-iphone-x-helper';
 
 import useImg from '../../assets/levi.png';
@@ -12,6 +13,19 @@ import colors from '../styles/colors';
 import fonts from '../styles/fonts';
 
 export function Header() {
+    const [userName, setUserName] = useState<string>();
+
+    useEffect(() => {
+        async function loadStorageUserName() {
+            const user = await AsyncStorage.getItem('@plantmanager:user');
+            setUserName(user || '');
+        }
+
+        loadStorageUserName()
+    }, [userName]);
+
+    // 
+
     return (
         <View style={styles.container}>
             <View>
@@ -19,7 +33,7 @@ export function Header() {
                     Olá,
                 </Text>
                 <Text style={styles.userName}>
-                    Levi
+                    {userName}
                 </Text>
             </View>
             <Image source={useImg} style={styles.image} />
