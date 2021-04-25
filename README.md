@@ -17,7 +17,7 @@
 	✔️ Concluído ✔️
 </h4>
 
-# ✔️<h1>Demonstração da aplicação</h1>
+# <h1>Demonstração da aplicação</h1>
 ⚠️ Acesso o video completo no [YouTube](https://www.youtube.com/watch?v=R76mUB3EiQA) ⚠️
 ![](https://github.com/LeviJunior1/plantmanager/blob/main/gif/plant-manager.gif)
 
@@ -54,7 +54,7 @@ $ expo start
 # Pronto!
 ```
 
-### <h1>Tecnologias</h1> 🔧
+### <h1>Tecnologias</h1>
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
