@@ -12,7 +12,7 @@
  <a href="#autor">Autor</a>
 </p>
 
-# Status do Projeto ✔️
+# Status do Projeto
 <h4 align="center"> 
 	✔️ Concluído ✔️
 </h4>
@@ -54,7 +54,7 @@ $ expo start
 # Pronto!
 ```
 
-### <h1>Tecnologias 🛠️</h1>
+### <h1>Tecnologias</h1>
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
