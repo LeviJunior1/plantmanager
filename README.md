@@ -5,11 +5,11 @@
 
 ### Tabela de conteúdos
 <p align="center">
- <a href="#objetivo">Descrição do Projeto</a> •
+ <a href="#Pré-requisitos">Pré-requisitos</a> •
  <a href="#roadmap">Roadmap</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
+ <a href="#Tecnologias">Tecnologias</a> • 
  <a href="#autor">Autor</a>
 </p>
 
