@@ -5,9 +5,9 @@
 
 ### Tabela de conteúdos
 <p align="center">
+ <a href="#Status do Projeto">Status do Projeto</a> • 
+ <a href="#Demonstração da aplicação">Demonstração da aplicação</a> •
  <a href="#Pré-requisitos">Pré-requisitos</a> •
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
  <a href="#Tecnologias 🔧">Tecnologias</a> • 
  <a href="#autor">Autor</a>
 </p>
@@ -17,7 +17,7 @@
 	✔️ Concluído ✔️
 </h4>
 
-# <h1>✔️ Demonstração da aplicação</h1>
+# ✔️<h1>Demonstração da aplicação</h1>
 ⚠️ Acesso o video completo no [YouTube](https://www.youtube.com/watch?v=R76mUB3EiQA) ⚠️
 ![](https://github.com/LeviJunior1/plantmanager/blob/main/gif/plant-manager.gif)
 
