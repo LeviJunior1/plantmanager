@@ -42,7 +42,6 @@ $ npm install
 
 # Altere o arquivo src\services
 $ baseURL: Seu IP local + Porta (Exemplo: http://192.168.15.6:3333) 
-(Para descobrir o ip abra o terminal e digite ipconfig(windows) e copie o IPV4)
 
 #Inicie o servidor dentro da raiz do projeto pelo terminal/cmd
 $json-server ./src/services/server.json --host (Seu IP) --port (Porta) --delay 700
