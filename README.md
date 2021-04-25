@@ -3,7 +3,7 @@
 ## Descrição do Projeto
 <p align="center">Um aplicativo para lembra você de regar suas plantas!! 😍😍😍🌱🌱</p>
 
-### Tabela de conteúdos
+## Tabela de conteúdos
 <p align="center">
  <a href="#Status-do-Projeto">Status do Projeto</a> • 
  <a href="#Demonstração-da-aplicação">Demonstração da aplicação</a> •
@@ -12,23 +12,23 @@
  <a href="#autor">Autor</a>
 </p>
 
-# Status do Projeto
+## Status do Projeto
 <h4 align="center"> 
 	✔️ Concluído ✔️
 </h4>
 
-# <h1>Demonstração da aplicação</h1>
+## <h1>Demonstração da aplicação</h1>
 ⚠️ Acesso o video completo no [YouTube](https://www.youtube.com/watch?v=R76mUB3EiQA) ⚠️
 ![](https://github.com/LeviJunior1/plantmanager/blob/main/gif/plant-manager.gif)
 
 
-# Pré-requisitos
+## Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Expo](https://docs.expo.io/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
-### 🎲 Rodando o Projeto
+## 🎲 Rodando o Projeto
 
 ```bash
 # Clone este repositório
@@ -53,7 +53,7 @@ $ expo start
 # Pronto!
 ```
 
-### <h1>Tecnologias</h1>
+## <h1>Tecnologias</h1>
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
