@@ -6,10 +6,9 @@
 ### Tabela de conteúdos
 <p align="center">
  <a href="#Pré-requisitos">Pré-requisitos</a> •
- <a href="#roadmap">Roadmap</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#contribuicao">Contribuição</a> • 
- <a href="#Tecnologias">Tecnologias</a> • 
+ <a href="#Tecnologias 🔧">Tecnologias</a> • 
  <a href="#autor">Autor</a>
 </p>
 
@@ -55,7 +54,7 @@ $ expo start
 # Pronto!
 ```
 
-### <h1>Tecnologias 🔧</h1>
+### <h1>Tecnologias</h1> 🔧
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
