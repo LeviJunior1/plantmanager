@@ -18,7 +18,7 @@
 </h4>
 
 ## <h2>Demonstração da aplicação</h2>
-⚠️ Acesso o video completo no <a href="https://www.youtube.com/watch?v=R76mUB3EiQA" target="_blank">YouTube</a> ⚠️
+⚠️ Acesse o video completo no <a href="https://www.youtube.com/watch?v=R76mUB3EiQA" target="_blank">YouTube</a> ⚠️
 ![](https://github.com/LeviJunior1/plantmanager/blob/main/gif/plant-manager.gif)
 
 
