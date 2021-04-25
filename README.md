@@ -17,7 +17,7 @@
 	✔️ Concluído ✔️
 </h4>
 
-## <h1>Demonstração da aplicação</h1>
+## <h2>Demonstração da aplicação</h2>
 ⚠️ Acesso o video completo no [YouTube](https://www.youtube.com/watch?v=R76mUB3EiQA) ⚠️
 ![](https://github.com/LeviJunior1/plantmanager/blob/main/gif/plant-manager.gif)
 
