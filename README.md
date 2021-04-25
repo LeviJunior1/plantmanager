@@ -5,10 +5,10 @@
 
 ### Tabela de conteúdos
 <p align="center">
- <a href="#Status-do-Projeto-✔️">Status do Projeto</a> • 
+ <a href="#Status-do-Projeto">Status do Projeto</a> • 
  <a href="#Demonstração-da-aplicação">Demonstração da aplicação</a> •
  <a href="#Pré-requisitos">Pré-requisitos</a> •
- <a href="#Tecnologias-🛠️">Tecnologias</a> • 
+ <a href="#Tecnologias">Tecnologias</a> • 
  <a href="#autor">Autor</a>
 </p>
 
